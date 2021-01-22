@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Hi, I'm **Nicole**!
 
-You can use the [editor on GitHub](https://github.com/nmilloy/profile-jamstack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my profile page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's a little about __me__:  I was born and brought up in *Aberdeen*, but now I live in _Leeds_.
 
-### Markdown
+### My dog's called Burt and he's a Whippet X. Here's a link to a page about whippets [https://dogtime.com/dog-breeds/whippet].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### A few of my favourite things:
 
-```markdown
-Syntax highlighted code block
+1. Food, food and more food
+1. Sunshine
+1. Cocktails, notably:
+  1. ! (Cosmopolitans) (https://cdn.diffords.com/contrib/stock-images/2018/05/5af300ade3fe5.jpg) Format: ![An image of a Cosmopolitan Cocktail]
+  2. French Martinis
+  3. Aperol Spritzs
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmilloy/profile-jamstack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
